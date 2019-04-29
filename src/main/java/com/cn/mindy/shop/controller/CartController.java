@@ -18,7 +18,6 @@ import javax.servlet.http.HttpServletRequest;
 @Controller
 @RequestMapping("/cart")
 public class CartController {
-//12312312
         @Autowired
         public ProductService productService;
 
